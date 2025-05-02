@@ -51,7 +51,7 @@
 
 body::after {
     content: "";
-    background-color: rgba(0, 0, 0, 0.6); /* Preto com 60% de opacidade */
+    background-color: rgba(0, 0, 0, 0.9); /* Preto com 60% de opacidade */
     position: absolute;
     top: 0;
     left: 0;
